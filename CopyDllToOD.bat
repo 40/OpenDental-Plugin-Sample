@@ -1,0 +1,1 @@
+xcopy "E:\My Documents\OPEN DENTAL SUBVERSION\PluginExample\bin\Debug\PluginExample.dll" "E:\My Documents\OPEN DENTAL SUBVERSION\head\OpenDental\bin\Debug" /Y
